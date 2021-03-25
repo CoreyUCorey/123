@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "alist",
+      "type": "com.example.demo.AlistConfig",
+      "sourceType": "com.example.demo.AlistConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "alist.list",
+      "type": "java.util.List<com.example.demo.AlistItem>",
+      "sourceType": "com.example.demo.AlistConfig"
+    }
+  ],
+  "hints": []
+}

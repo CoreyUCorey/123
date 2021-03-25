@@ -1,0 +1,10 @@
+
+alist:
+  list:
+    - name: xu
+      age: 18
+
+    - name: hui
+      age: 20
+
+
